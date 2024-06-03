@@ -532,10 +532,10 @@ p {
         flex-wrap: wrap;
     }
     .bannerLeft {
-        flex: 1 0 400px;
+        flex: 1 0 300px;
     }
     .bannerRight {
-        flex: 1 0 400px;
+        flex: 1 0 300px;
     }
     .UifryBanner {
         margin-bottom: 10%;
