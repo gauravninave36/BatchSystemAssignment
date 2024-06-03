@@ -463,7 +463,7 @@ p {
         justify-content: space-between;
         flex-wrap: wrap;
         align-self: start;
-        margin: 0 0 8% 5vw;
+        margin: 0 0 8% 12.15%;
     }
 }
 
@@ -570,5 +570,11 @@ p {
         margin-right: auto;
         width: 90vw;
         margin-bottom: 40px;
+    }
+    .faq h6 {
+        margin: 0 0 15px 5vw;
+    }
+    .faq h2 {
+        margin: 0 0 15px 5vw;
     }
 }
